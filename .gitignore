@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+#serives identity from google cloud project
+gservice.json
+
+#unuse
+push.js
+package-lock.json
